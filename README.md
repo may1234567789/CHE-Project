@@ -1,1 +1,1 @@
-# CHE-Project
+# AI Model for Environment Welfare
